@@ -13,8 +13,8 @@ pandas library
 
 **Installation**
 
-pip install requests pandas
-
+pip install requests
+pip install beautifulsoup4
 **Get TMDB API Key:**
 
 Sign up at TMDB.
