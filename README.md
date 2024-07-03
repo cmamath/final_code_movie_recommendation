@@ -10,9 +10,11 @@ Recommends a random movie from the list.
 Python 3.x
 requests library
 pandas library
+
 **Installation**
 
 pip install requests pandas
+
 **Get TMDB API Key:**
 
 Sign up at TMDB.
